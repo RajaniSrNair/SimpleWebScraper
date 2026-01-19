@@ -46,12 +46,6 @@ Creates a directory (if it does not already exist)
 
 Saves the extracted content into a text file
 
-📁 Repository Structure
-.
-├── task1_script.py      # Python web scraping script
-├── task2.ipynb          # Jupyter Notebook version of the script
-├── article.txt          # Scraped output text file
-└── README.md            # Project description
 
 🔍 Purpose of the Project
 
